@@ -3,48 +3,18 @@
 
     {
       
-      "name": "Airbnb_1",
-      "file_path": "Airbnb_1.twbx",
+      "name": "VG Contest_Super ",
+      "file_path": "VG Contest_Super .twbx",
       "project_path": "Technology",
       "tags": [
-        "air",
-        "Tutorial"
+        "VG",
+        "Contest"
       ],
       "hidden_views": [
         " ",""
       ],
       "show_tabs": true,
-      "description": "Airbnb Tutorial"
-    },
-    {
-      
-      "name": "AirbnbTutorial",
-      "file_path": "AirbnbTutorial.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "airpnb",
-        "Tutorial"
-      ],
-      "hidden_views": [
-        " ",""
-      ],
-      "show_tabs": true,
-      "description": "AirbnbTutorial"
-    },
-    {
-      
-      "name": "Superstore - Profitability _Overview",
-      "file_path": "Superstore - Profitability _Overview.twb",
-      "project_path": "Technology",
-      "tags": [
-        "sales",
-        "profit"
-      ],
-      "hidden_views": [
-        " ",""
-      ],
-      "show_tabs": true,
-      "description": "Superstore - Profitability Overview"
+      "description": "VG Contest_Super "
     }
   ]
 }
