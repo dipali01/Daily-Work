@@ -3,8 +3,8 @@
 
     {
       
-      "name": "Test Workbook",
-      "file_path": "Test Workbook.twbx",
+      "name": "Ttest Workbook",
+      "file_path": "Ttest Workbook.twbx",
       "project_path": "Technology",
       "tags": [
         "Sample",
@@ -14,7 +14,7 @@
         " ",""
       ],
       "show_tabs": true,
-      "description": "Test Workbook"
+      "description": "Ttest Workbook"
     }
   ]
 }
