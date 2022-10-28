@@ -3,18 +3,18 @@
 
     {
       
-      "name": "VG Contest_Super",
-      "file_path": "VG Contest_Super.twbx",
-      "project_path": "Online",
+      "name": "Test Workbook",
+      "file_path": "Test Workbook.twbx",
+      "project_path": "Technology",
       "tags": [
-        "VG",
+        "Sample",
         "Sales"
       ],
       "hidden_views": [
         " ",""
       ],
       "show_tabs": true,
-      "description": "VG Contest_Super"
+      "description": "Test Workbook"
     }
   ]
 }
