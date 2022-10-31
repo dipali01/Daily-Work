@@ -3,18 +3,18 @@
 
     {
       
-      "name": "Test Workbook1",
-      "file_path": "Test Workbook1.twbx",
+      "name": "Product",
+      "file_path": "Product.twbx",
       "project_path": "Technology",
       "tags": [
-        "Sample",
+        "State",
         "Sales"
       ],
       "hidden_views": [
         " ",""
       ],
       "show_tabs": true,
-      "description": "Test Workbook1"
+      "description": "Product"
     }
   ]
 }
