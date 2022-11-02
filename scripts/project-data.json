@@ -1,15 +1,15 @@
 {
   "workbooks": [
     {
-      "name": "DT New",
+      "name": "DT New1",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
       "site_name": "DataLab",
-      "file_path": "DT New.twbx",
-      "project_path": "test1",
+      "file_path": "DT New1.twbx",
+      "project_path": "Test1",
       "tags": ["sample", "temp"],
       "hidden_views": [" "],
       "show_tabs": true,
-      "description": "DT New",
+      "description": "DT New1",
       "is_site_default": false,
       "server_url": "https://tableau.devinvh.com/"
     }
