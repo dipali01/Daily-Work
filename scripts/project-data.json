@@ -1,15 +1,15 @@
 {
   "workbooks": [
     {
-      "name": "Data Work",
+      "name": "Data Work1",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
       "site_name": "DataLab",
-      "file_path": "Data Work.twbx",
-      "project_path": "Administration",
+      "file_path": "Data Work1.twbx",
+      "project_path": "Default",
       "tags": ["sample", "temp"],
       "hidden_views": [" "],
       "show_tabs": true,
-      "description": "Data Work",
+      "description": "Data Work1",
       "is_site_default": false,
       "server_url": "https://tableau.devinvh.com/"
     }
