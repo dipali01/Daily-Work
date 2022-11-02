@@ -1,20 +1,17 @@
 {
   "workbooks": [
-
     {
-      
-      "name": "Ttest Workbook",
-      "file_path": "Ttest Workbook.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "State",
-        "Sales"
-      ],
-      "hidden_views": [
-        " ",""
-      ],
+      "name": "Product",
+      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
+      "site_name": "Enterprise",
+      "file_path": "Product.twbx",
+      "project_path": "Working",
+      "tags": ["sample", "temp"],
+      "hidden_views": ["Growth Rates"],
       "show_tabs": true,
-      "description": "Ttest Workbook"
+      "description": "Sample description",
+      "is_site_default": true,
+      "server_url": "https://tableau.devinvh.com/"
     }
   ]
 }
