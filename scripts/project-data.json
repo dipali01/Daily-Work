@@ -10,7 +10,7 @@
       "hidden_views": [" "],
       "show_tabs": true,
       "description": "DT New",
-      "is_site_default": true,
+      "is_site_default": false,
       "server_url": "https://tableau.devinvh.com/"
     }
   ]
