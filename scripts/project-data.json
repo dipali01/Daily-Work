@@ -1,16 +1,16 @@
 {
   "workbooks": [
     {
-      "name": "Product",
+      "name": "DT new work",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "site_name": "Enterprise",
-      "file_path": "Product.twbx",
-      "project_path": "Working",
+      "site_name": "DataLab",
+      "file_path": "DT new work.twbx",
+      "project_path": "Test1",
       "tags": ["sample", "temp"],
-      "hidden_views": ["Growth Rates"],
+      "hidden_views": [" "],
       "show_tabs": true,
-      "description": "Sample description",
-      "is_site_default": true,
+      "description": "DT new work",
+      "is_site_default": false,
       "server_url": "https://tableau.devinvh.com/"
     }
   ]
