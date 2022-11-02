@@ -1,16 +1,16 @@
 {
   "workbooks": [
     {
-      "name": "DT new1",
+      "name": "AirbnbTutorial1",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "site_name": "Enterprise",
-      "file_path": "DT new1.twbx",
-      "project_path": "Technology",
+      "site_name": "DataLab",
+      "file_path": "AirbnbTutorial1.twbx",
+      "project_path": "Test1",
       "tags": ["sample", "temp"],
       "hidden_views": [" "],
       "show_tabs": true,
-      "description": "DT new1",
-      "is_site_default": true,
+      "description": "AirbnbTutorial1",
+      "is_site_default": false,
       "server_url": "https://tableau.devinvh.com/"
     }
   ]
