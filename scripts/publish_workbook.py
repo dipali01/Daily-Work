@@ -3,7 +3,6 @@ import json
 import argparse
 import tableauserverclient as TSC
 
-
 def signin(site_name, is_site_default, server_url):
     tableau_auth = TSC.TableauAuth(
             args.username, args.password, None if is_site_default else site_name)
