@@ -2,8 +2,6 @@ import os
 import json
 import argparse
 import tableauserverclient as TSC
-from tableau_api_lib import TableauServerConnection
-from tableau_api_lib.utils import querying
 
 def signin(site_name, is_site_default, server_url):
     tableau_auth = TSC.TableauAuth(
