@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "Price Forecast new",
+      "name": "PFNew",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Price Forecast new.twbx",
+      "file_path": "PFNew.twbx",
       "project_path": "Working",
       "tags": ["sample", "temp"],
       "hidden_views": ["Growth Rates"],
