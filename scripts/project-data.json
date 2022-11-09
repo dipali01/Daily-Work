@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "New Product Sales",
+      "name": "Walmart Retail ",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "New Product Sales .twbx",
+      "file_path": "Walmart Retail .twb",
       "project_path": "Working",
       "tags": ["new", "temp"],
       "hidden_views": [""],
