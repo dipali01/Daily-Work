@@ -3,10 +3,10 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "NTestWorkbook",
+      "name": "N_Product",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "NTestWorkbook.twbx",
-      "project_path": "Working",
+      "file_path": "N_Product.twbx",
+      "project_path": "Technology",
       "tags": ["sample", "temp"],
       "hidden_views": ["Growth Rates"],
       "show_tabs": true,
