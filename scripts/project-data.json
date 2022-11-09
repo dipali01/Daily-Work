@@ -10,7 +10,6 @@
       "tags": ["sample", "temp"],
       "hidden_views": ["Growth Rates"],
       "show_tabs": true,
-      "is_wb_new": true,
       "is_site_default": true,
       "permissions": {
         "permission_user_name": "Nirav.Padia",
