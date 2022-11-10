@@ -3,11 +3,11 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "Superstore_Sales_&_Profit",
+      "name": "Superstore",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Superstore_Sales_&_Profit.twb",
+      "file_path": "Superstore.twb",
       "project_path": "Tech Testing",
-      "tags": ["sample", "sales"],
+      "tags": ["", "sales"],
       "hidden_views": [""],
       "show_tabs": true,
       "is_site_default": true,
@@ -26,12 +26,12 @@
             "ShareView": "Allow",
             "ViewUnderlyingData": "Allow",                    
             "WebAuthoring": "Allow",
-            "ExportXml": "Allow",
-            "Write": "Allow",
-            "CreateRefreshMetrics": "Allow",
-            "ChangeHierarchy": "Allow",
-            "Delete": "Allow",
-            "ChangePermissions": "Allow"
+            "ExportXml": "Deny",
+            "Write": "Deny",
+            "CreateRefreshMetrics": "Deny",
+            "ChangeHierarchy": "Deny",
+            "Delete": "Deny",
+            "ChangePermissions": "Deny"
         }
         }
       ]
