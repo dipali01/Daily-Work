@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "New Product_sales",
+      "name": "NEw_Sample_wWB",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "New Product_sales.twbx",
+      "file_path": "NEw_Sample_wWB.twbx",
       "project_path": "Working",
       "tags": ["sample", "temp"],
       "hidden_views": [""],
@@ -80,8 +80,5 @@
         }
       ]
     }
-  
-    
-    
   ]
 }
