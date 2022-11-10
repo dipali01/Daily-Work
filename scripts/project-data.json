@@ -3,14 +3,14 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "DataLab",
-      "name": "Workbook Sample",
-      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Workbook Sample.twbx",
+      "name": "Sp Workbook Sample",
+      "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
+      "file_path": "Sp Workbook Sample.twbx",
       "project_path": "Default",
       "tags": ["sample", "temp"],
       "hidden_views": [""],
       "show_tabs": true,
-      "is_site_default": true,
+      "is_site_default": false,
       "permissions": [
         {
           "permission_group_name": "All Users",
@@ -82,15 +82,15 @@
     },
     {
       "server_url": "https://tableau.devinvh.com/",
-      "site_name": "DataLab",
+      "site_name": "Enterprise",
       "name": "Sample testWbk",
-      "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
+      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
       "file_path": "Sample testWbk.twbx",
-      "project_path": "Test1",
+      "project_path": "Technology",
       "tags": ["sample", "temp"],
       "hidden_views": [""],
       "show_tabs": true,
-      "is_site_default": false,
+      "is_site_default": true,
       "permissions": [
         {
           "permission_group_name": "All Users",
