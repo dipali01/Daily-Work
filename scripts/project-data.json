@@ -3,10 +3,10 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "New Profit",
+      "name": "New Profit Test",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "New Profit.twbx",
-      "project_path": "Tech Testing",
+      "file_path": "New Profit Test.twbx",
+      "project_path": "Technology",
       "tags": ["", "sales"],
       "hidden_views": [""],
       "show_tabs": true,
