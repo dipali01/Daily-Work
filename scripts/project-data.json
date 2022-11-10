@@ -13,7 +13,7 @@
       "is_site_default": true,
       "permissions": [
         {
-          "permission_group_name": "All Users",
+          "permission_group_name": "",
           "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Allow",
