@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "New Profit Test",
+      "name": "Sample_Superstore",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "New Profit Test.twbx",
+      "file_path": "Sample_Superstore.twb",
       "project_path": "Technology",
       "tags": ["", "sales"],
       "hidden_views": [""],
