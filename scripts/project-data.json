@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "S_super_Data1",
+      "name": "New Price Forecast Test",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "S_super_Data1.twb",
+      "file_path": "New Price Forecast Test.twbx",
       "project_path": "Tech Testing",
       "tags": ["sample", "sales"],
       "hidden_views": [""],
@@ -13,8 +13,8 @@
       "is_site_default": true,
       "permissions": [
         {
-          "permission_group_name": "All Users",
-          "permission_user_name": "",
+          "permission_group_name": "",
+          "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Deny",
             "Filter": "Deny",
@@ -33,33 +33,25 @@
             "Delete": "Deny",
             "ChangePermissions": "Deny"
         }
-        },
+        }
+      ]
+    },
+    {
+      "server_url": "https://tableau.devinvh.com/",
+      "site_name": "Enterprise",
+      "name": "Workbook PF",
+      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
+      "file_path": "Workbook PF.twbx",
+      "project_path": "Tech Testing",
+      "tags": ["sample", "sales"],
+      "hidden_views": [""],
+      "show_tabs": true,
+      "is_site_default": true,
+      "permissions": [
         {
           "permission_group_name": "",
           "permission_user_name": "Nirav.Padia",
           "permission_template": {
-            "Read": "Allow",
-            "Filter": "Allow",
-            "ViewComments": "Allow",
-            "AddComment": "Allow",
-            "ExportImage": "Allow",
-            "ExportData": "Allow",
-            "RunExplainData": "Allow",
-            "ShareView": "Allow",
-            "ViewUnderlyingData": "Allow",                    
-            "WebAuthoring": "Allow",
-            "ExportXml": "Allow",
-            "Write": "Allow",
-            "CreateRefreshMetrics": "Allow",
-            "ChangeHierarchy": "Allow",
-            "Delete": "Allow",
-            "ChangePermissions": "Allow"
-          }
-        },
-        {
-          "permission_group_name": "",
-          "permission_user_name": "Venkateswarlu.Velisetty",
-          "permission_template": {
             "Read": "Deny",
             "Filter": "Deny",
             "ViewComments": "Deny",
@@ -76,10 +68,9 @@
             "ChangeHierarchy": "Deny",
             "Delete": "Deny",
             "ChangePermissions": "Deny"
-          }
+        }
         }
       ]
     }
-    
   ]
 }
