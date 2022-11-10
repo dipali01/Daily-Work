@@ -14,7 +14,7 @@
       "permissions": [
         {
           "permission_group_name": "All Users",
-          "permission_user_name": "",
+          "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Allow",
             "Filter": "Allow",
