@@ -3,9 +3,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "Forecast 2022",
+      "name": "S_super_Data",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Forecast 2022.twbx",
+      "file_path": "S_super_Data.twb",
       "project_path": "Technology",
       "tags": ["sample", "Sales"],
       "hidden_views": [""],
@@ -39,9 +39,9 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "Superstore - Profitability Overview",
+      "name": "Sample_Superstore",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Superstore - Profitability Overview.twbx",
+      "file_path": "Sample_Superstore.twb",
       "project_path": "Technology",
       "tags": ["sample", "Sales"],
       "hidden_views": [""],
