@@ -66,12 +66,10 @@
             "ChangeHierarchy": "Deny",
             "Delete": "Allow",
             "ChangePermissions": "Deny"
-      }
+          }
         }
-  ]
+     ]
     }
-
-   ]
   ]
 }
 
