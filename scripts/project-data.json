@@ -23,18 +23,20 @@
             "ExportImage": "Deny",
             "ExportData": "Deny",
             "RunExplainData": "Deny",
-            "ShareView": "Allow",
+            "ShareView": "Deny",
             "ViewUnderlyingData": "Deny",                    
             "WebAuthoring": "Deny",
             "ExportXml": "Deny",
             "Write": "Deny",
             "CreateRefreshMetrics": "Deny",
             "ChangeHierarchy": "Deny",
-            "Delete": "Allow",
+            "Delete": "Deny",
             "ChangePermissions": "Deny"
-          }
-        },
-      {
+        }
+        }
+      ]
+    },
+    {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
       "name": "New Price Forecast Test",
@@ -57,19 +59,18 @@
             "ExportImage": "Deny",
             "ExportData": "Deny",
             "RunExplainData": "Deny",
-            "ShareView": "Allow",
+            "ShareView": "Deny",
             "ViewUnderlyingData": "Deny",                    
             "WebAuthoring": "Deny",
             "ExportXml": "Deny",
             "Write": "Deny",
             "CreateRefreshMetrics": "Deny",
             "ChangeHierarchy": "Deny",
-            "Delete": "Allow",
+            "Delete": "Deny",
             "ChangePermissions": "Deny"
-          }
         }
-     ]
+        }
+      ]
     }
   ]
 }
-
