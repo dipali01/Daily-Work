@@ -1,92 +1,13 @@
 {
   "workbooks": [
-    {
-      "server_url": "https://tableau.devinvh.com/",
-      "site_name": "Enterprise",
-      "name": "Workbook PF",
-      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "Workbook PF.twbx",
-      "project_path": "Tech Testing",
-      "tags": ["sample", "Sales"],
-      "hidden_views": [""],
-      "show_tabs": true,
-      "is_site_default": true,
-      "permissions": [
-        {
-          "permission_group_name": "All Users",
-          "permission_user_name": "",
-          "permission_template": {
-            "Read": "Deny",
-            "Filter": "Deny",
-            "ViewComments": "Allow",
-            "AddComment": "Deny",
-            "ExportImage": "Deny",
-            "ExportData": "Deny",
-            "RunExplainData": "Deny",
-            "ShareView": "Deny",
-            "ViewUnderlyingData": "Deny",                    
-            "WebAuthoring": "Deny",
-            "ExportXml": "Allow",
-            "Write": "Deny",
-            "CreateRefreshMetrics": "Deny",
-            "ChangeHierarchy": "Deny",
-            "Delete": "Deny",
-            "ChangePermissions": "Deny"
-        }
-        },
-        {
-          "permission_group_name": "",
-          "permission_user_name": "Nirav.Padia",
-          "permission_template": {
-            "Read": "Allow",
-            "Filter": "Deny",
-            "ViewComments": "Deny",
-            "AddComment": "Allow",
-            "ExportImage": "Deny",
-            "ExportData": "Deny",
-            "RunExplainData": "Allow",
-            "ShareView": "Allow",
-            "ViewUnderlyingData": "Allow",                    
-            "WebAuthoring": "Deny",
-            "ExportXml": "Allow",
-            "Write": "Allow",
-            "CreateRefreshMetrics": "Allow",
-            "ChangeHierarchy": "Deny",
-            "Delete": "Allow",
-            "ChangePermissions": "Allow"
-          }
-        },
-        {
-          "permission_group_name": "",
-          "permission_user_name": "Venkateswarlu.Velisetty",
-          "permission_template": {
-            "Read": "Allow",
-            "Filter": "Deny",
-            "ViewComments": "Deny",
-            "AddComment": "Deny",
-            "ExportImage": "Deny",
-            "ExportData": "Allow",
-            "RunExplainData": "Deny",
-            "ShareView": "Deny",
-            "ViewUnderlyingData": "Deny",                    
-            "WebAuthoring": "Allow",
-            "ExportXml": "Deny",
-            "Write": "Deny",
-            "CreateRefreshMetrics": "Deny",
-            "ChangeHierarchy": "Deny",
-            "Delete": "Deny",
-            "ChangePermissions": "Deny"
-          }
-        }
-      ]
-    },
+    
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "DataLab",
-      "name": "Forecast 20",
+      "name": "Forecast 2022.1",
       "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
-      "file_path": "Forecast 20.twbx",
-      "project_path": "Online",
+      "file_path": "Forecast 2022.1.twbx",
+      "project_path": "Test1",
       "tags": ["sample", "temp"],
       "hidden_views": [""],
       "show_tabs": true,
