@@ -3,24 +3,24 @@
     {
       "server_url": "https://tableau.devinvh.com/",
       "site_name": "Enterprise",
-      "name": "S_super_Data",
+      "name": "Workbook PF",
       "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
-      "file_path": "S_super_Data.twb",
-      "project_path": "Technology",
+      "file_path": "Workbook PF.twbx",
+      "project_path": "Tech Testing",
       "tags": ["sample", "Sales"],
       "hidden_views": [""],
       "show_tabs": true,
       "is_site_default": true,
       "permissions": [
         {
-          "permission_group_name": "All Users",
-          "permission_user_name": "",
+          "permission_group_name": "",
+          "permission_user_name": "Nirav.Padia",
           "permission_template": {
-            "Read": "Allow",
+            "Read": "Deny",
             "Filter": "Deny",
-            "ViewComments": "Allow",
+            "ViewComments": "Deny",
             "AddComment": "Deny",
-            "ExportImage": "Allow",
+            "ExportImage": "Deny",
             "ExportData": "Deny",
             "RunExplainData": "Deny",
             "ShareView": "Allow",
@@ -32,8 +32,20 @@
             "ChangeHierarchy": "Deny",
             "Delete": "Allow",
             "ChangePermissions": "Deny"
-        }
+          }
         },
+      {
+      "server_url": "https://tableau.devinvh.com/",
+      "site_name": "Enterprise",
+      "name": "New Price Forecast Test",
+      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
+      "file_path": "New Price Forecast Test.twbx",
+      "project_path": "Tech Testing",
+      "tags": ["sample", "Sales"],
+      "hidden_views": [""],
+      "show_tabs": true,
+      "is_site_default": true,
+      "permissions": [
         {
           "permission_group_name": "",
           "permission_user_name": "Nirav.Padia",
@@ -42,44 +54,24 @@
             "Filter": "Deny",
             "ViewComments": "Deny",
             "AddComment": "Deny",
-            "ExportImage": "Allow",
+            "ExportImage": "Deny",
             "ExportData": "Deny",
-            "RunExplainData": "Allow",
-            "ShareView": "Deny",
-            "ViewUnderlyingData": "Allow",                    
+            "RunExplainData": "Deny",
+            "ShareView": "Allow",
+            "ViewUnderlyingData": "Deny",                    
             "WebAuthoring": "Deny",
-            "ExportXml": "Allow",
+            "ExportXml": "Deny",
             "Write": "Deny",
             "CreateRefreshMetrics": "Deny",
             "ChangeHierarchy": "Deny",
-            "Delete": "Deny",
+            "Delete": "Allow",
             "ChangePermissions": "Deny"
+      }
         }
-        },
-        {
-          "permission_group_name": "",
-          "permission_user_name": "Venkateswarlu.Velisetty",
-          "permission_template": {
-            "Read": "Deny",
-            "Filter": "Deny",
-            "ViewComments": "Deny",
-            "AddComment": "Deny",
-            "ExportImage": "Allow",
-            "ExportData": "Deny",
-            "RunExplainData": "Deny",
-            "ShareView": "Deny",
-            "ViewUnderlyingData": "Allow",                    
-            "WebAuthoring": "Deny",
-            "ExportXml": "Deny",
-            "Write": "Allow",
-            "CreateRefreshMetrics": "Deny",
-            "ChangeHierarchy": "Deny",
-            "Delete": "Deny",
-            "ChangePermissions": "Allow"
-          }
-        }
- 
-      ]
+  ]
     }
+
+   ]
   ]
 }
+
