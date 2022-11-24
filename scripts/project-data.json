@@ -23,7 +23,7 @@
           "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Deny",
-            "Filter": "Allow",
+            "Filter": "Deny",
             "ViewComments": "Allow",
             "AddComment": "Allow",
             "ExportImage": "Allow",
