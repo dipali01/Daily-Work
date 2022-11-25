@@ -23,7 +23,7 @@
           "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Deny",
-            "Filter": "Allow",
+            "Filter": "Deny",
             "ViewComments": "Allow",
             "AddComment": "Allow",
             "ExportImage": "Allow",
@@ -78,7 +78,7 @@
     {
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "dev",
         "site_id": "e4fc3628-68b4-4a72-a956-9fc3c02192f4",
@@ -91,7 +91,7 @@
         "is_site_default": false,
         "show_tabs": false
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "",
