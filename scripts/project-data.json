@@ -13,7 +13,7 @@
         "file_path": "DT new Packaged v1.twbx",
         "tags": [],
         "hidden_views": [], 
-        "is_site_default": true,
+        "is_site_default": false,
         "show_tabs": false
       },
       "is_wb_permissions_update": true,
@@ -88,7 +88,7 @@
         "file_path": "Book1.twbx",
         "tags": [],
         "hidden_views": [], 
-        "is_site_default": true,
+        "is_site_default": false,
         "show_tabs": false
       },
       "is_wb_permissions_update": true,
