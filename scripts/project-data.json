@@ -44,18 +44,33 @@
       "is_datasource_update": true,
       "datasources": [
         {
-          "ds_name": "Sample - Superstore",
+          "ds_name": "Disposition Tracker DS",
           "get_ds_data": {
             "get_ds_server_name": "dev",
             "get_ds_site_name": "Enterprise",
-            "get_ds_project_name": "Default",
+            "get_ds_project_name": "Technology",
+            "is_site_default": true
+          },
+          "publish_ds_data": {
+            "publish_ds_server_name": "dev",
+            "publish_ds_site_name": "DataLab",
+            "publish_ds_project_name": "Test1",
+            "is_site_default": false
+          }
+        },
+        {
+          "ds_name": "Order",
+          "get_ds_data": {
+            "get_ds_server_name": "prod",
+            "get_ds_site_name": "DataLabs",
+            "get_ds_project_name": "Development",
             "is_site_default": true
           },
           "publish_ds_data": {
             "publish_ds_server_name": "dev",
             "publish_ds_site_name": "DataLab",
             "publish_ds_project_name": "Development",
-            "is_site_default": false
+            "is_site_default": true
           }
         }
       ]
