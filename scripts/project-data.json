@@ -9,8 +9,8 @@
         "site_id": "55239ed7-57b4-4b10-b269-b2b5fe71f280",
         "site_name": "DataLabs",
         "project_path": "Development",
-        "wb_name": "Workbook",
-        "file_path": "Workbook.twb",
+        "wb_name": "sample test_WB",
+        "file_path": "sample test_WB.twb",
         "tags": [],
         "hidden_views": [], 
         "is_site_default": false,
@@ -19,8 +19,8 @@
       "is_wb_permissions_update": true,
       "permissions": [
         {
-          "permission_group_name": "",
-          "permission_user_name": "Nirav.Padia",
+          "permission_group_name": "All Users",
+          "permission_user_name": "",
           "permission_template": {
             "Read": "Deny",
             "Filter": "Deny",
@@ -94,8 +94,8 @@
       "is_wb_permissions_update": false,
       "permissions": [
         {
-          "permission_group_name": "",
-          "permission_user_name": "Nirav.Padia",
+          "permission_group_name": "All Users",
+          "permission_user_name": "",
           "permission_template": {
             "Read": "Allow",
             "Filter": "Allow",
