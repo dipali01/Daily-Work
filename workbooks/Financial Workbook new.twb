@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20221.22.0902.1602                               -->
+<!-- build 20221.22.0324.2209                               -->
 <workbook original-version='18.1' source-build='2022.1.0 (20221.22.0324.2209)' source-platform='win' version='18.1' xml:base='http://paws-tableau02' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
@@ -24,8 +24,8 @@
   </_.fcp.AnimationOnByDefault.false...style>
   <datasources>
     <datasource caption='Financial Sample' inline='true' name='sqlproxy.16ipq0101aslmr1fsaq9r150heef' version='18.1'>
-      <repository-location derived-from='http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/datasources/FinancialSample?rev=1.0' id='FinancialSample' path='/datasources' revision='1.2' site='DataLabs' />
-      <connection channel='http' class='sqlproxy' dbname='FinancialSample' directory='/dataserver' port='80' server='paws-tableau02' username=''>
+      <repository-location derived-from='https://tableau.devinvh.com/datasources/FinancialSample?rev=1.0' id='FinancialSample' path='/t/DataLabs/datasources' revision='1.0' site='DataLabs' />
+      <connection channel='http' class='sqlproxy' dbname='FinancialSample' directory='/dataserver' port='80' server='tableau-alb-316754542.us-east-1.elb.amazonaws.com' username=''>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='sqlproxy' table='[sqlproxy]' type='table' />
         <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='sqlproxy' table='[sqlproxy]' type='table' />
         <metadata-records>
@@ -349,14 +349,14 @@
               <attribute datatype='string' name='collation'>&quot;binary&quot;</attribute>
               <attribute datatype='string' name='datasource'>&quot;<![CDATA[<?xml version='1.0' encoding='utf-8' ?>
 
-<datasource :source-version='18.1' formatted-name='federated.0bzmain12sod0y1cmpxc81m6m2qh' inline='true' version='18.1' xml:base='https://tableau.devinvh.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<datasource :source-version='18.1' formatted-name='federated.0bzmain12sod0y1cmpxc81m6m2qh' inline='true' version='18.1' xml:base='http://tableau-alb-316754542.us-east-1.elb.amazonaws.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
     <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
     <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
   </document-format-change-manifest>
-  <repository-location derived-from='https://tableau.devinvh.com/datasources/FinancialSample?rev=1.0' id='FinancialSample' path='/datasources' revision='1.2' site='DataLabs' />
-  <connection channel='https' class='sqlproxy' dbname='FinancialSample' directory='/dataserver' port='443' server='tableau.devinvh.com'>
+  <repository-location derived-from='https://tableau.devinvh.com/datasources/FinancialSample?rev=1.0' id='FinancialSample' path='/t/DataLabs/datasources' revision='1.0' site='DataLabs' />
+  <connection channel='http' class='sqlproxy' dbname='FinancialSample' directory='/dataserver' port='80' server='tableau-alb-316754542.us-east-1.elb.amazonaws.com'>
     <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='sqlproxy' table='[sqlproxy]' type='table' />
     <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='sqlproxy' table='[sqlproxy]' type='table' />
     <cols>
