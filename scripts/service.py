@@ -117,8 +117,8 @@ def service_func(data, username, password, prod_username, prod_password, mpd):
         logging.error(
             "Something went wrong in update permission of workbook.\n %s", tableu_exception)
     # Step: Sign Out to the Tableau Server
-    if is_sign_in:
-        server.auth.sign_out()
+   # if is_sign_in:
+       # server.auth.sign_out()
 
     # Datasource Part
     try:
