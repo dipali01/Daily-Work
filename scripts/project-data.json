@@ -4,20 +4,20 @@
       "index_id": 0,
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "prod",
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
         "site_name": "DataLab",
         "project_path": "Dev Final",
-        "wb_name": "New Financial",
-        "file_path": "New Financial.twb",
+        "wb_name": "N_E_W_Product",
+        "file_path": "N_E_W_Product.twbx",
         "tags": [],
         "hidden_views": [],
         "is_site_default": false,
         "show_tabs": false
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "All Users",
@@ -109,20 +109,20 @@
       "index_id": 1,
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "prod",
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
         "site_name": "DataLab",
         "project_path": "Dev Final",
-        "wb_name": "Financial workbook",
-        "file_path": "Financial workbook.twb",
+        "wb_name": "New Product",
+        "file_path": "New Product.twb",
         "tags": [],
         "hidden_views": [],
         "is_site_default": false,
         "show_tabs": false
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "All Users",
@@ -191,10 +191,10 @@
           }
         }
       ],
-      "is_datasource_update": false,
+      "is_datasource_update": true,
       "datasources": [
         {
-          "ds_name": "Disposition Tracker DS",
+          "ds_name": "Order+ (Multiple Connections)",
           "get_ds_data": {
             "get_ds_server_name": "prod",
             "get_ds_site_name": "DataLab",
@@ -204,7 +204,7 @@
           "publish_ds_data": {
             "publish_ds_server_name": "prod",
             "publish_ds_site_name": "DataLab",
-            "publish_ds_project_name": "Dev Final",
+            "publish_ds_project_name": "Dev Working",
             "is_site_default": false
           }
         }
