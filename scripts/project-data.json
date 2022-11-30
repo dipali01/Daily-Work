@@ -4,12 +4,12 @@
       "index_id": 0,
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "dev",
         "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
         "site_name": "Enterprise",
-        "project_path": "TO Work",
+        "project_path": "Test Project",
         "wb_name": "Workbook",
         "file_path": "Workbook.twb",
         "tags": [],
@@ -17,7 +17,7 @@
         "is_site_default": true,
         "show_tabs": false
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "All Users",
@@ -191,20 +191,20 @@
           }
         }
       ],
-      "is_datasource_update": false,
+      "is_datasource_update": true,
       "datasources": [
         {
           "ds_name": "Sample Data",
           "get_ds_data": {
-            "get_ds_server_name": "prod",
-            "get_ds_site_name": "DataLab",
-            "get_ds_project_name": "Dev Working",
-            "is_site_default": false
+            "get_ds_server_name": "dev",
+            "get_ds_site_name": "Enterprise",
+            "get_ds_project_name": "TO Work",
+            "is_site_default": true
           },
           "publish_ds_data": {
             "publish_ds_server_name": "dev",
             "publish_ds_site_name": "Enterprise",
-            "publish_ds_project_name": "TO Work",
+            "publish_ds_project_name": "Test Project",
             "is_site_default": true
           }      
         }
