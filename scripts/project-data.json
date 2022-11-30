@@ -14,7 +14,7 @@
         "file_path": "Workbook.twb",
         "tags": [],
         "hidden_views": [],
-        "is_site_default": false,
+        "is_site_default": true,
         "show_tabs": false
       },
       "is_wb_permissions_update": false,
