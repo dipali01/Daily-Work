@@ -17,7 +17,7 @@
         "is_site_default": true,
         "show_tabs": false
       },
-      "is_wb_permissions_update": false,
+      "is_wb_permissions_update": true,
       "permissions": [
         {
           "permission_group_name": "All Users",
@@ -86,7 +86,7 @@
           }
         }
       ],
-      "is_datasource_update": true,
+      "is_datasource_update": false,
       "datasources": [
         {
           "ds_name": "Sample Data1",
