@@ -17,7 +17,7 @@
         "is_site_default": true,
         "show_tabs": false
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
       ],
       "is_datasource_update": false,
