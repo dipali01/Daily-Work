@@ -20,7 +20,7 @@
       "is_wb_permissions_update": false,
       "permissions": [
       ],
-      "is_datasource_update": false,
+      "is_datasource_update": true,
       "datasources": [
         {
           "ds_name": "Sample Data1",
