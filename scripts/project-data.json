@@ -10,8 +10,8 @@
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
         "site_name": "DataLab",
         "project_path": "Development",
-        "wb_name": "New Financial",
-        "file_path": "New Financial.twb",
+        "wb_name": "Financial workbook",
+        "file_path": "Financial workbook.twb",
         "tags": [],
         "hidden_views": [],
         "is_site_default": false,
@@ -21,10 +21,10 @@
       "permissions": [
         {
           "permission_group_name": "",
-          "permission_user_name": "Anubhuti.Agrawal",
+          "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Deny",
-            "Filter": "Deny",
+            "Filter": "Allow",
             "ViewComments": "Deny",
             "AddComment": "Allow",
             "ExportImage": "Allow",
@@ -34,11 +34,11 @@
             "ViewUnderlyingData": "Allow",
             "WebAuthoring": "Allow",
             "ExportXml": "Allow",
-            "Write": "Allow",
-            "CreateRefreshMetrics": "Allow",
+            "Write": "Deny",
+            "CreateRefreshMetrics": "Deny",
             "ChangeHierarchy": "Allow",
-            "Delete": "Deny",
-            "ChangePermissions": "Deny"
+            "Delete": "Allow",
+            "ChangePermissions": "Allow"
           }
         }
       ],
