@@ -25,7 +25,7 @@
           "permission_template": {
             "Read": "Deny",
             "Filter": "Deny",
-            "ViewComments": "Allow",
+            "ViewComments": "Deny",
             "AddComment": "Allow",
             "ExportImage": "Allow",
             "ExportData": "Allow",
@@ -36,7 +36,7 @@
             "ExportXml": "Allow",
             "Write": "Allow",
             "CreateRefreshMetrics": "Allow",
-            "ChangeHierarchy": "Deny",
+            "ChangeHierarchy": "Allow",
             "Delete": "Deny",
             "ChangePermissions": "Deny"
           }
