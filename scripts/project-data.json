@@ -37,7 +37,7 @@
             "Write": "Allow",
             "CreateRefreshMetrics": "Allow",
             "ChangeHierarchy": "Allow",
-            "Delete": "Allow",
+            "Delete": "Deny",
             "ChangePermissions": "Deny"
           }
         }
