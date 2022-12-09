@@ -4,7 +4,7 @@
       "index_id": 0,
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "prod",
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
@@ -17,7 +17,7 @@
         "is_site_default": false,
         "show_tabs": true
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "",
@@ -55,7 +55,7 @@
           "publish_ds_data": {
             "publish_ds_server_name": "prod",
             "publish_ds_site_name": "DataLab",
-            "publish_ds_project_name": "Development",
+            "publish_ds_project_name": "Dev Working",
             "is_site_default": false
           }
         }
@@ -65,7 +65,7 @@
       "index_id": 1,
       "dev_server_url": "https://tableau.devinvh.com/",
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
-      "is_wb_publish": true,
+      "is_wb_publish": false,
       "publish_wb_data": {
         "server_name": "dev",
         "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
@@ -78,7 +78,7 @@
         "is_site_default": true,
         "show_tabs": true
       },
-      "is_wb_permissions_update": true,
+      "is_wb_permissions_update": false,
       "permissions": [
         {
           "permission_group_name": "",
@@ -116,7 +116,7 @@
           "publish_ds_data": {
             "publish_ds_server_name": "dev",
             "publish_ds_site_name": "Enterprise",
-            "publish_ds_project_name": "Working",
+            "publish_ds_project_name": "Default",
             "is_site_default": true
           }
         }
