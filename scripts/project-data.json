@@ -9,7 +9,7 @@
         "server_name": "prod",
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
         "site_name": "DataLab",
-        "project_path": "Dev Final",
+        "project_path": "Development",
         "wb_name": "FP v22",
         "file_path": "FP v22.twb",
         "tags": ["one"],
@@ -55,7 +55,7 @@
           "publish_ds_data": {
             "publish_ds_server_name": "prod",
             "publish_ds_site_name": "DataLab",
-            "publish_ds_project_name": "Dev Final",
+            "publish_ds_project_name": "Development",
             "is_site_default": false
           }
         }
@@ -67,15 +67,15 @@
       "prod_server_url": "http://tableau-alb-316754542.us-east-1.elb.amazonaws.com/",
       "is_wb_publish": true,
       "publish_wb_data": {
-        "server_name": "prod",
-        "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
-        "site_name": "DataLab",
-        "project_path": "Dev Final",
+        "server_name": "dev",
+        "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
+        "site_name": "Enterprise ",
+        "project_path": "Working",
         "wb_name": "Contest Superstore",
         "file_path": "Contest Superstore.twbx",
         "tags": ["Sales","Sample"],
         "hidden_views": [],
-        "is_site_default": false,
+        "is_site_default": true,
         "show_tabs": true
       },
       "is_wb_permissions_update": true,
@@ -114,10 +114,10 @@
             "is_site_default": true
           },
           "publish_ds_data": {
-            "publish_ds_server_name": "prod",
-            "publish_ds_site_name": "DataLab",
-            "publish_ds_project_name": "Dev Final",
-            "is_site_default": false
+            "publish_ds_server_name": "dev",
+            "publish_ds_site_name": "Enterprise",
+            "publish_ds_project_name": "Working",
+            "is_site_default": true
           }
         }
       ]
