@@ -107,8 +107,8 @@
           "permission_user_name": "",
           "permission_template": {
             "Read": "Deny",
-            "Filter": "Deny",
-            "ViewComments": "Deny",
+            "Filter": "Allow",
+            "ViewComments": "Allow",
             "AddComment": "Allow",
             "ExportImage": "Allow",
             "ExportData": "Allow",
