@@ -20,8 +20,8 @@
       "is_wb_permissions_update": true,
       "permissions": [
         {
-          "permission_group_name": "All Users",
-          "permission_user_name": "",
+          "permission_group_name": "",
+          "permission_user_name": "Nirav.Padia",
           "permission_template": {
             "Read": "Deny",
             "Filter": "Allow",
@@ -42,7 +42,7 @@
           }
         }
       ],
-      "is_datasource_update": true,
+      "is_datasource_update": false,
       "datasources": [
         {
           "ds_name": "Sample - Superstore",
