@@ -42,7 +42,7 @@
           }
         }
       ],
-      "is_datasource_update": false,
+      "is_datasource_update": true,
       "datasources": [
         {
           "ds_name": "Sample - Superstore",
@@ -103,7 +103,7 @@
           }
         }
       ],
-      "is_datasource_update": true,
+      "is_datasource_update": false,
       "datasources": [
         {
           "ds_name": "Sample - Superstore",
