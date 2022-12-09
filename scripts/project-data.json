@@ -12,10 +12,10 @@
         "project_path": "Development",
         "wb_name": "Book1",
         "file_path": "Book1.twbx",
-        "tags": [],
+        "tags": ["Sales","Sample"],
         "hidden_views": [],
         "is_site_default": false,
-        "show_tabs": false
+        "show_tabs": true
       },
       "is_wb_permissions_update": true,
       "permissions": [
@@ -42,7 +42,7 @@
           }
         }
       ],
-      "is_datasource_update": true,
+      "is_datasource_update": false,
       "datasources": [
         {
           "ds_name": "Sample - Superstore",
@@ -71,12 +71,12 @@
         "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
         "site_name": "Enterprise",
         "project_path": "Technology",
-        "wb_name": "Sales-Dashboard",
-        "file_path": "Sales-Dashboard.twbx",
-        "tags": [],
+        "wb_name": "Sample",
+        "file_path": "Sample.twb",
+        "tags": ["Sales","Sample"],
         "hidden_views": [],
         "is_site_default": true,
-        "show_tabs": false
+        "show_tabs": true
       },
       "is_wb_permissions_update": true,
       "permissions": [
