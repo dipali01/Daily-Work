@@ -10,7 +10,7 @@
         "site_id": "499f7f8a-b012-4fb7-980d-349515374f6e",
         "site_name": "DataLab",
         "project_path": "Dev Final",
-        "wb_name": "Performance",
+        "wb_name": "Performance1",
         "file_path": "Performance.twb",
         "tags": ["Sales","Sample"],
         "hidden_views": [],
@@ -42,7 +42,7 @@
           }
         }
       ],
-      "is_datasource_update": false,
+      "is_datasource_update": true,
       "datasources": [
         {
           "ds_name": "tableau_ari_geotab",
